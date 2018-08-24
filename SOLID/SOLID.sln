@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj", "{AF4E16ED-E149-461A-AC42-96680CFF4AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID-Tests", "SOLID-Tests\SOLID-Tests.csproj", "{F530196B-9B5B-4268-9E80-4DBF822E66B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID2Test", "SOLID2Test\SOLID2Test.csproj", "{9B9EAB5E-D493-48EB-9188-556959C02182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4E16ED-E149-461A-AC42-96680CFF4AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4E16ED-E149-461A-AC42-96680CFF4AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4E16ED-E149-461A-AC42-96680CFF4AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4E16ED-E149-461A-AC42-96680CFF4AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F530196B-9B5B-4268-9E80-4DBF822E66B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F530196B-9B5B-4268-9E80-4DBF822E66B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F530196B-9B5B-4268-9E80-4DBF822E66B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F530196B-9B5B-4268-9E80-4DBF822E66B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9EAB5E-D493-48EB-9188-556959C02182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9EAB5E-D493-48EB-9188-556959C02182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9EAB5E-D493-48EB-9188-556959C02182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9EAB5E-D493-48EB-9188-556959C02182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3596F7A9-340B-4027-8F7E-17F60A1526AE}
+	EndGlobalSection
+EndGlobal
