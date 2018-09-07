@@ -1,0 +1,7 @@
+C:\Users\svc-student\Desktop\CS236\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\svc-student\Desktop\CS236\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\svc-student\Desktop\CS236\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\svc-student\Desktop\CS236\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csprojAssemblyReference.cache
+C:\Users\svc-student\Desktop\CS236\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\svc-student\Desktop\CS236\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\svc-student\Desktop\CS236\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb
