@@ -1,0 +1,16 @@
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\ExampleClassLibTest.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\ExampleClassLibTest.pdb
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\ExampleClassLib.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\ExampleClassLib.pdb
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\obj\Debug\ExampleClassLibTest.csprojAssemblyReference.cache
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\obj\Debug\ExampleClassLibTest.csproj.CoreCompileInputs.cache
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\obj\Debug\ExampleClassLibTest.csproj.CopyComplete
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\obj\Debug\ExampleClassLibTest.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLibTest\obj\Debug\ExampleClassLibTest.pdb

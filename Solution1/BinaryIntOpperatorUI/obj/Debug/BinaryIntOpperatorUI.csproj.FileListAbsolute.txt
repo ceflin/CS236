@@ -1,0 +1,13 @@
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\bin\Debug\BinaryIntOpperatorUI.exe.config
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\bin\Debug\BinaryIntOpperatorUI.exe
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\bin\Debug\BinaryIntOpperatorUI.pdb
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\obj\Debug\BinaryIntOpperatorUI.csprojAssemblyReference.cache
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\obj\Debug\BinaryIntOpperatorUI.Properties.Resources.resources
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\obj\Debug\BinaryIntOpperatorUI.csproj.GenerateResource.cache
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\obj\Debug\BinaryIntOpperatorUI.csproj.CoreCompileInputs.cache
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\obj\Debug\BinaryIntOpperatorUI.exe
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\obj\Debug\BinaryIntOpperatorUI.pdb
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\obj\Debug\BinaryIntOpperatorUI.Form1.resources
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\bin\Debug\ExampleClassLib.dll
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\bin\Debug\ExampleClassLib.pdb
+C:\Users\svc-student\Desktop\Solution1\BinaryIntOpperatorUI\obj\Debug\BinaryIntOpperatorUI.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLib\bin\Debug\ExampleClassLib.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLib\bin\Debug\ExampleClassLib.pdb
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLib\obj\Debug\ExampleClassLib.csprojAssemblyReference.cache
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLib\obj\Debug\ExampleClassLib.csproj.CoreCompileInputs.cache
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLib\obj\Debug\ExampleClassLib.dll
+C:\Users\svc-student\Desktop\Solution1\ExampleClassLib\obj\Debug\ExampleClassLib.pdb
