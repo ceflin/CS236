@@ -5,21 +5,21 @@ using System;
 namespace LinkedListLibrary
 {
    // class to represent one node in a list
-   class ListNode
+   class ListNode<T>
    {
       // automatic read-only property Data
-      public object Data { get; private set; }
+      public T Data { get; private set; }
 
       // automatic property Next
-      public ListNode Next { get; set; }
+      public ListNode<T> Next { get; set; }
 
       // constructor to create ListNode that refers to dataValue
       // and is last node in list
-      public ListNode(object dataValue) : this(dataValue, null) { }
+      public ListNode(T dataValue) : this(dataValue, null) { }
 
       // constructor to create ListNode that refers to dataValue
       // and refers to next ListNode in List
-      public ListNode(object dataValue, ListNode nextNode)
+      public ListNode(T dataValue, ListNode<T> nextNode)
       {
          Data = dataValue;
          Next = nextNode;
@@ -27,10 +27,10 @@ namespace LinkedListLibrary
    }
 
    // class List declaration
-   public class List
+   public class List<T>
    {
-      private ListNode firstNode;
-      private ListNode lastNode;
+      private ListNode<T> firstNode;
+      private ListNode<T> lastNode;
       private string name; // string like "list" to display
 
       // construct empty List with specified name
@@ -46,42 +46,42 @@ namespace LinkedListLibrary
       // Insert object at front of List. If List is empty, 
       // firstNode and lastNode will refer to same object.
       // Otherwise, firstNode refers to new node.
-      public void InsertAtFront(object insertItem)
+      public void InsertAtFront(T insertItem)
       {
          if (IsEmpty())
          {
-            firstNode = lastNode = new ListNode(insertItem);
+            firstNode = lastNode = new ListNode<T>(insertItem);
          }
          else
          {
-            firstNode = new ListNode(insertItem, firstNode);
+            firstNode = new ListNode<T>(insertItem, firstNode);
          }
       }
 
       // Insert object at end of List. If List is empty, 
       // firstNode and lastNode will refer to same object.
       // Otherwise, lastNode's Next property refers to new node.
-      public void InsertAtBack(object insertItem)
+      public void InsertAtBack(T insertItem)
       {
          if (IsEmpty())
          {
-            firstNode = lastNode = new ListNode(insertItem);
+            firstNode = lastNode = new ListNode<T>(insertItem);
          }
          else
          {
-            lastNode = lastNode.Next = new ListNode(insertItem);
+            lastNode = lastNode.Next = new ListNode<T>(insertItem);
          }
       }
 
       // remove first node from List
-      public object RemoveFromFront()
+      public T RemoveFromFront()
       {
          if (IsEmpty())
          {
             throw new EmptyListException(name);
          }
 
-         object removeItem = firstNode.Data; // retrieve data
+         T removeItem = firstNode.Data; // retrieve data
 
          // reset firstNode and lastNode references
          if (firstNode == lastNode)
@@ -97,14 +97,14 @@ namespace LinkedListLibrary
       }
 
       // remove last node from List
-      public object RemoveFromBack()
+      public T RemoveFromBack()
       {
          if (IsEmpty())
          {
             throw new EmptyListException(name);
          }
 
-         object removeItem = lastNode.Data; // retrieve data
+         T removeItem = lastNode.Data; // retrieve data
 
          // reset firstNode and lastNode references
          if (firstNode == lastNode)
@@ -113,7 +113,7 @@ namespace LinkedListLibrary
          }
          else
          {
-            ListNode current = firstNode;
+            ListNode<T> current = firstNode;
 
             // loop while current.Next is not lastNode
             while (current.Next != lastNode)
@@ -146,7 +146,7 @@ namespace LinkedListLibrary
          {
             Console.Write($"The {name} is: ");
 
-            ListNode current = firstNode;
+            ListNode<T> current = firstNode;
 
             // output current node data while not at end of list
             while (current != null)

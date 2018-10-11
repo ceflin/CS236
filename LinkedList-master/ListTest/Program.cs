@@ -8,22 +8,16 @@ class ListTest
 {
     static void Main()
     {
-        var list = new List(); // create List container
-
-        // create data to store in List
-        bool aBoolean = true;
-        char aCharacter = '$';
-        int anInteger = 34567;
-        string aString = "hello";
+        var list = new List<int>(); // create List container
 
         // use List insert methods       
-        list.InsertAtFront(aBoolean);
+        list.InsertAtFront(1);
         list.Display();
-        list.InsertAtFront(aCharacter);
+        list.InsertAtFront(2);
         list.Display();
-        list.InsertAtBack(anInteger);
+        list.InsertAtBack(3);
         list.Display();
-        list.InsertAtBack(aString);
+        list.InsertAtBack(4);
         list.Display();
 
         // remove data from list and display after each removal
