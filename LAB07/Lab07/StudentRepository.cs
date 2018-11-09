@@ -38,7 +38,7 @@ namespace Lab07
 
         public static Student HighestStudent(Status status)
         {
-            return null;
+            return Students
         }
 
         public static Student LowestStudent()
